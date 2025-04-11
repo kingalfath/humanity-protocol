@@ -1,0 +1,23 @@
+
+# Abaikan file private keys
+private_keys.txt
+
+# Abaikan file konfigurasi sensitif umum
+.env
+*.env
+*.key
+*.pem
+
+# Abaikan folder environment virtual Python
+venv/
+__pycache__/
+*.pyc
+
+# Abaikan file OS/Editor
+.DS_Store
+*.swp
+*.swo
+
+# Abaikan file log/temp
+*.log
+*.tmp
