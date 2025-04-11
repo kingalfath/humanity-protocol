@@ -1,16 +1,6 @@
 # HUMANITY PROTOCOL BOT
 
-# JOIN HUMANITY : [testnet.humanity.org](testnet.humanity.org/login?ref=shareithub)
-
-# TUTORIAL VIDEO [HUMANITY BOT TUTORIAL](https://youtu.be/LdLYZ5fNHks)
-
-# JOIN NOW IN MY CHANNEL :
-
-[SUBSCRIBE YOUTUBE NOW !](https://www.youtube.com/@SHAREITHUB_COM)
-
-[SUBSCRIBE TELEGRAM NOW](https://t.me/SHAREITHUB_COM)
-
-[TELEGRAM GROUP CHAT](https://t.me/DISS_SHAREITHUB)
+# JOIN HUMANITY : testnet.humanity.org/login?ref=alfathsdon
 
 Tutorial :
 
