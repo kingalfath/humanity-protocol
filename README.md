@@ -31,7 +31,7 @@ sudo apt install git -y
 
 Git clone folder BOT HUMANITY :
 ```
-git clone https://github.com/shareithub/humanity-protocol.git
+git clone https://github.com/kingalfath/humanity-protocol.git
 ```
 
 Go to folder Bot :
