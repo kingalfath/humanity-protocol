@@ -173,10 +173,10 @@ def main_loop():
     wallets = load_wallets()
 
     while True:
-        claim_faucet(wallets)
+        # claim_faucet(wallets)  # dinonaktifkan
         claim_reward(wallets, web3, contract)
-        console.print(f"🕒 [cyan]Menunggu 1 menit sebelum proses berikutnya...[/cyan]")
-        time.sleep(60)
+        console.print(f"🕒 [cyan]Menunggu 1 jam sebelum proses berikutnya...[/cyan]")
+        time.sleep(3600)  # 1 jam
 
 if __name__ == "__main__":
     main_loop()
